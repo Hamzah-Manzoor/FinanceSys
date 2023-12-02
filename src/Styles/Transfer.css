@@ -1,0 +1,10 @@
+.main{
+        display:'flex';
+        height:99%;
+        width:100%;       
+        background-color:rgb(234, 223, 223); 
+        /* background-color: transparent; */
+       
+        border-Radius:20px; 
+        border:3px solid green;
+    }

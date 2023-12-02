@@ -1,0 +1,35 @@
+.topup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #232f3e; /* dark greenish color */
+  }
+  
+  .topup-form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+  }
+  .confirm-topup-btn {
+    background-color: #2ecc71; /* green */
+    color: #ffffff; /* white */
+    width: 400px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .confirm-topup-btn:hover {
+    background-color: #27ae60; /* darker green */
+  }
+  .btn-div{
+    display: flex;
+    justify-content: center;
+  }
